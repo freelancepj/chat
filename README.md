@@ -11,7 +11,7 @@ Two **long-term projects** at the intersection of expertise, AI, digital product
 
 **Expertise > random AI output. Evidence > hype. Creator ownership > platform dependency.**
 
-The bigger vision is a connected loop: **discover a painful problem → validate an offer → build a useful product → sell → measure → improve**, with evidence and human approval at every step. Both repos are intentionally early-stage, and the examples are synthetic.
+The bigger vision is a connected loop: **discover a painful problem → validate an offer → build a useful product → sell → measure → improve**, with evidence and human approval at every step. Both projects are intentionally early-stage, and the examples are synthetic.
 
 ### Run the demos
 
@@ -22,7 +22,9 @@ cd expertos && npm run demo && npm test
 cd ../signalstack && npm run demo && npm test
 ```
 
-Open each project's `index.html` for a local browser demo. Read each `docs/architecture.md` and `docs/roadmap.md` for the much bigger, still-unbuilt plan.
+Open each project's `index.html` for a local browser demo. Read each project's `docs/architecture.md` and `docs/roadmap.md` for the much bigger, still-unbuilt plan.
+
+A smaller working starter utility, the [Digital Product Funnel Calculator](digital-product-funnel/README.md), also lives in this repository.
 
 ## Getting involved
 
